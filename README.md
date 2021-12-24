@@ -1,0 +1,2 @@
+# myproject
+doing git project
